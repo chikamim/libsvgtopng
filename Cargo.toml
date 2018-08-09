@@ -1,5 +1,5 @@
 [package]
-name = "libsvgtopng"
+name = "svgtopng"
 version = "0.1.0"
 authors = ["chikamim"]
 keywords = ["svg", "render", "raster"]

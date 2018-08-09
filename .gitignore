@@ -2,3 +2,4 @@
 /*.png
 /callgrind.out.*
 .DS_Store
+/target
