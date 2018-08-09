@@ -1,0 +1,4 @@
+/*.svg
+/*.png
+/callgrind.out.*
+.DS_Store
